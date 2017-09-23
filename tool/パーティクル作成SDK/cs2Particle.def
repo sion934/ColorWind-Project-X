@@ -1,0 +1,5 @@
+EXPORTS
+MakeInstance		@1
+ReleaseInstance		@2
+GetPluginVersion	@3
+GetPluginType		@4
